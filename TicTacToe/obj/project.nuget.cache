@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzdLHZmF6LI8eqeLXQVrNXygHII0Dy3ArzQXTz6q9wT7bkI99de4dmD/ysIZdUA/h40J1pe3RPm0C7JlNaBUmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexey\\Documents\\C# project\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
